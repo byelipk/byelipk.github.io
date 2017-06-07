@@ -1,7 +1,7 @@
 var path = require('path');
 var ExtractTextPlugin = require('extract-text-webpack-plugin');
 
-const extractCSS = new ExtractTextPlugin('styles.css');
+const extractSASS = new ExtractTextPlugin('styles.css');
 
 module.exports = {
   entry: './app/index.js',
@@ -10,15 +10,13 @@ module.exports = {
     path: path.resolve(__dirname, 'dist')
   },
   module: {
-    loaders: [
-
-    ],
     rules: [
       {
         test: /\.scss$/,
-        use: extractCSS.extract(['css-loader', 'sass-loader'])
+        use: extractSASS.extract(['css-loader', 'sass-loader'])
       },
 
+      // Expose jQuery as a global
       {
         test: require.resolve("jquery"),
         use: [
@@ -33,6 +31,7 @@ module.exports = {
         ]
       },
 
+      // Expose Tether as a global
       {
         test: require.resolve("tether"),
         use: [{
@@ -42,7 +41,8 @@ module.exports = {
       }
     ]
   },
+  
   plugins: [
-    extractCSS
+    extractSASS
   ]
 };
