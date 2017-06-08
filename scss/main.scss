@@ -25,9 +25,15 @@
 .navbar-nav {
   .nav-link {
     color: #2B394D;
-    border-bottom: 4px solid white;
-    &:hover {
+    &:after {
+      display: block;
+      content: '';
       border-bottom: 4px solid red;
+      transform: scaleX(0);
+      transition: transform 250ms ease-in-out;
+    }
+    &:hover:after {
+      transform: scaleX(1);
     }
   }
 }
