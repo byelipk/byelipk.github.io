@@ -467,7 +467,7 @@ h6, .h6 {
   font-weight: 300;
   line-height: 1.1; }
 
-.display-4 {
+.display-4, .display-5 {
   font-size: 3.5rem;
   font-weight: 300;
   line-height: 1.1; }
@@ -5986,3 +5986,36 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 @media print {
   .hidden-print {
     display: none !important; } }
+
+.navbar-nav .nav-link {
+  color: #2B394D; }
+
+.display-5 {
+  font-size: 3rem; }
+
+.code-snippet {
+  background-color: #2B394D; }
+  .code-snippet .line-number {
+    color: #636d83;
+    font-size: 1.25rem; }
+  .code-snippet .line {
+    color: white;
+    font-size: 1.25rem; }
+  .code-snippet .keyword {
+    color: #C678DD; }
+  .code-snippet .operator {
+    color: #ABB2BF; }
+  .code-snippet .function {
+    color: #61AFEF; }
+  .code-snippet .receiver {
+    color: #E06C75; }
+  .code-snippet .semicolon {
+    color: #9012FE; }
+  .code-snippet .key-value {
+    color: #98C379; }
+  .code-snippet .comment {
+    color: #5C6370; }
+
+@media (min-width: 768px) {
+  h1.display-4, h1.display-5 {
+    margin-top: 7rem !important; } }
