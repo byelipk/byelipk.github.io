@@ -6011,6 +6011,9 @@ body {
   height: 100vh;
   width: 100vw; }
 
+.projects .projects-list .media {
+  margin-bottom: 3rem !important; }
+
 .navbar-nav .nav-link {
   color: #2B394D; }
   .navbar-nav .nav-link:after {
@@ -6027,3 +6030,7 @@ body {
 
 .mt-7 {
   margin-top: 7rem !important; }
+
+@media (max-width: 991px) {
+  .mt-7 {
+    margin-top: 15rem !important; } }
