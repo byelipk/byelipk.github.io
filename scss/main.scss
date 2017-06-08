@@ -1,26 +1,35 @@
 @import '~bootstrap/scss/bootstrap.scss';
 
-// html {
-//   font-size: 14px;
-// }
-//
-// @include media-breakpoint-up(sm) {
-//   html {
-//     font-size: 16px;
-//   }
-// }
-//
-// @include media-breakpoint-up(md) {
-//   html {
-//     font-size: 20px;
-//   }
-// }
-//
-// @include media-breakpoint-up(lg) {
-//   html {
-//     font-size: 28px;
-//   }
-// }
+// Responsive typography
+html {
+  font-size: 0.75rem;
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 0.9rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.1rem;
+  }
+}
+
+.fullscreen {
+  height: 100%;
+  width: 100%;
+
+  height: 100vh;
+  width: 100vw;
+}
 
 .navbar-nav {
   .nav-link {
@@ -41,48 +50,12 @@
 .display-5 {
   @extend .display-4;
   font-size: 3rem;
-}
-
-.code-snippet {
-  background-color: #2B394D;
-  .line-number {
-    color: #636d83;
-    font-size: 1.25rem;
-  }
-  .line {
-    color: white;
-    font-size: 1.25rem;
-  }
-  .keyword {
-    color: #C678DD;
-  }
-  .operator {
-    color: #ABB2BF;
-  }
-  .function {
-    color: #61AFEF;
-  }
-  .receiver {
-    color: #E06C75;
-  }
-  .semicolon {
-    color: #9012FE;
-  }
-  .key-value {
-    color: #98C379;
-  }
-  .comment {
-    color: #5C6370;
-  }
+  margin-top: 7rem !important;
 }
 
 
 @include media-breakpoint-up(xs) { }
 @include media-breakpoint-up(sm) { }
-@include media-breakpoint-up(md) {
-  h1.display-4 {
-    margin-top: 7rem !important;
-  }
-}
+@include media-breakpoint-up(md) { }
 @include media-breakpoint-up(lg) { }
 @include media-breakpoint-up(xl) { }
