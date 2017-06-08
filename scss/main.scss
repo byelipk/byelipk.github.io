@@ -25,6 +25,10 @@
 .navbar-nav {
   .nav-link {
     color: #2B394D;
+    border-bottom: 4px solid white;
+    &:hover {
+      border-bottom: 4px solid red;
+    }
   }
 }
 
