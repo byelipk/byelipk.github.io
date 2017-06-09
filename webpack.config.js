@@ -11,9 +11,19 @@ module.exports = {
   },
   module: {
     rules: [
+
+      // Load in our SASS files
       {
         test: /\.scss$/,
         use: extractSASS.extract(['css-loader', 'sass-loader'])
+      },
+
+      // Images
+      {
+        test: /\.(png|svg|jpg|gif)$/,
+        use: [
+          'file-loader'
+        ]
       },
 
       // Expose jQuery as a global
