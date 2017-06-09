@@ -37,6 +37,10 @@ module.exports = {
           {
             loader: "expose-loader",
             options: "jQuery"
+          },
+          {
+            loader: "expose-loader",
+            options: "window.jQuery"
           }
         ]
       },
@@ -48,7 +52,15 @@ module.exports = {
           loader: "expose-loader",
           options: "Tether"
         }]
-      }
+      },
+
+      // {
+      //   test: require.resolve("velocity"),
+      //   use: [{
+      //     loader: "expose-loader",
+      //     options: "Velocity"
+      //   }]
+      // }
     ]
   },
 

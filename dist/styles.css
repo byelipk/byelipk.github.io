@@ -6005,11 +6005,11 @@ body {
 .goodbye {
   background: #f6f9fa; }
 
-.thanks {
+.contact {
   height: 50vh; }
-  .thanks article header h1 {
+  .contact article header h1 {
     margin-top: 7rem !important; }
-  .thanks article header p {
+  .contact article header p {
     font-size: 1.5rem;
     font-weight: 300;
     color: #45b29a; }
@@ -6036,7 +6036,7 @@ body {
 .mt-7, .story, .projects {
   margin-top: 7rem !important; }
 
-.mb-7, .story, .projects, .thanks {
+.mb-7, .story, .projects, .contact {
   margin-bottom: 7rem !important; }
 
 .pt-7, .goodbye {

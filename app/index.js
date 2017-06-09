@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function(){
   var d = new Date();
   var dayName = days[d.getDay()];
 
-  Typed.new(".thanks h1", {
+  Typed.new(".contact h1", {
     strings: [
       "Looking for a frontend engineer?^1000",
       "That's great!<br> I'm looking for a job. :) ^1000",
@@ -21,5 +21,23 @@ document.addEventListener("DOMContentLoaded", function(){
     ],
     typeSpeed: 50,
     loop: true
+  });
+
+  $("#story").click(function() {
+      $('html, body').animate({
+          scrollTop: $(".story").offset().top
+      }, 2000);
+  });
+
+  $("#projects").click(function() {
+      $('html, body').animate({
+          scrollTop: $(".projects").offset().top
+      }, 2000);
+  });
+
+  $("#contact").click(function() {
+      $('html, body').animate({
+          scrollTop: $(".contact").offset().top
+      }, 2000);
   });
 });
