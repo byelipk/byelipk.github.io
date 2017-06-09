@@ -202,3 +202,14 @@ body {
 	50% { opacity:0; }
 	100% { opacity:1; }
 }
+
+
+// Target high density devices
+@media (min--moz-device-pixel-ratio: 1.5),
+       (-o-min-device-pixel-ratio: 3/2),
+       (-webkit-min-device-pixel-ratio: 1.5),
+       (min-resolution: 144dpi),
+       (min-resolution: 1.5dppx) {
+  /* your retina rules here */
+  
+}
