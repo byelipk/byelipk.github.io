@@ -27,13 +27,13 @@ body {
 }
 
 .story {
-  @extend .mt-7;
-  @extend .mb-7;
+  @extend .pt-5;
+  @extend .pb-5;
 }
 
 .projects {
-  @extend .mt-7;
-  @extend .mb-7;
+  @extend .pt-5;
+  @extend .pb-5;
   .projects-list {
     .media {
       margin-bottom: 3rem !important;
@@ -41,33 +41,27 @@ body {
   }
 }
 
-.influencers {
-  @extend .fullscreen;
-}
 
-.goodbye {
-  @extend .pt-7;
-  @extend .pb-7;
-  background: $aqua-haze;
-}
 
 .contact {
-  // @extend .fullscreen;
   height: 50vh;
-  @extend .mb-7;
+  @extend .pt-5;
+  @extend .pb-5;
   article {
     header {
-      h1 {
-        margin-top: 7rem !important;
-      }
       p {
         font-size: 1.5rem;
         font-weight: 300;
         color: $keppel;
       }
     }
-
   }
+}
+
+.goodbye {
+  @extend .pt-5;
+  @extend .pb-5;
+  background: $aqua-haze;
 }
 
 .navbar-nav {
@@ -113,6 +107,14 @@ body {
 
 .pb-7 {
   padding-bottom: 7rem !important;
+}
+
+.pt-5 {
+  padding-top: 5rem !important;
+}
+
+.pb-5 {
+  padding-bottom: 5rem !important;
 }
 
 // Responsive typography
