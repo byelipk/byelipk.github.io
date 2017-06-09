@@ -43,24 +43,7 @@ module.exports = {
             options: "window.jQuery"
           }
         ]
-      },
-
-      // Expose Tether as a global
-      {
-        test: require.resolve("tether"),
-        use: [{
-          loader: "expose-loader",
-          options: "Tether"
-        }]
-      },
-
-      // {
-      //   test: require.resolve("velocity"),
-      //   use: [{
-      //     loader: "expose-loader",
-      //     options: "Velocity"
-      //   }]
-      // }
+      }
     ]
   },
 
