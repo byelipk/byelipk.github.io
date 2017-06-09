@@ -6013,6 +6013,11 @@ body {
 
 .goodbye {
   background: #f6f9fa; }
+  .goodbye li a {
+    color: #a5afac;
+    font-weight: bold; }
+  .goodbye p {
+    color: #2B394D; }
 
 .navbar-nav .nav-link {
   color: #45b29a; }
