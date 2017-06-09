@@ -5999,8 +5999,10 @@ body {
 .landing {
   background: #e0ebe8; }
 
-.projects .projects-list .media {
-  margin-bottom: 3rem !important; }
+.projects .projects-list {
+  margin-top: 5rem !important; }
+  .projects .projects-list .media {
+    margin-bottom: 3rem !important; }
 
 .contact {
   height: 50vh; }
