@@ -8,15 +8,17 @@ Imagine that situation, but assume you only had 2 hours of electricity per day.
 
 How would you spend your time online?
 
-In 2013, I asked myself this question each time I used the internet. Time after time, my answer was the same: I needed to learn to code.
+In 2013, I asked myself this question each time I used the internet. My answer was the same each time: I needed to learn to code.
 
 # No free lunch.
 
-I served as a Peace Corps Volunteer in Guinea. My job was to improve access to curative malaria medication.
+I served as a Peace Corps Volunteer in Guinea, which is a very poor country located on the West African coast. My job was to improve access to curative malaria medication.
 
-In Guinea, community health workers (CHWs) are the first point of contact a patient has with the health care system. CHWs are the ones in the villages diagnosing and treating patients. Have a fever? Save yourself a day-long trek to the health center, and find your village CHW instead.
+In Guinea, community health workers, or CHWs for short, are the first point of contact a patient has with the health care system. CHWs are the ones in the villages diagnosing and treating patients. Have a fever? Save yourself a day-long trek to the health center, and find your village CHW instead.
 
-CHWs have to be smart, detail orientated, energetic, and persuasive. Yes, they need to be competent health care providers, but they also have to be diplomats and marketeers. For example, if there's a polio vaccination campaign ongoing, it's not enough for a CHW to administer the vaccine; they have to convince the community to vaccinate their children in the first place. CHWs have jobs outside of healthcare: some are teachers, others farmers. Many also take care of families of their own. Most importantly, they were volunteers, just like I was.
+CHWs have to be smart, detail orientated, energetic, and persuasive. Yes, they need to be able to provide competent health care. They frequently draw blood, analyze test results, and prescribe medication. If they didn't do any of those things well, they wouldn't be good at their job. However, they also have to be diplomats and marketeers. For example, if there's a polio vaccination campaign ongoing, it's not enough for a CHW to administer the vaccine; they have to convince the community to get their children vaccinated.
+
+CHWs are volunteers. That's what resonated most with me. I was a volunteer, but many of them had families to take care of and other jobs to attend to. 
 
 Health care in Guinea is driven by large, international organizations that typically champion a single cause. In Guinea's capital of Conakry, there's a part of town I call "NGO Alley." All along NGO Alley you'll find organizations dedicated to causes like pre-natal care, oral hygiene, or family planning. Since CHWs play such an important role in the health care system, all of these interventions rely on them in some way. These interventions compete with each other for the CHWs time and energy, whether they know it or not.
 
