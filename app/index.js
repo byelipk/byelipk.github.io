@@ -1,4 +1,9 @@
 import "jquery";
+import "toastr";
+
+const Toaster = require("toastr");
+
+console.log(Toaster);
 
 import "../scss/main.scss";
 
@@ -37,5 +42,13 @@ document.addEventListener("DOMContentLoaded", function(){
       $('html, body').animate({
           scrollTop: $(".contact").offset().top
       }, 2000);
+  });
+
+  $("#project-kso").click(function(evt) {
+    evt.preventDefault();
+
+    Toaster.info(
+      `Thanks for your interest in the Kalanso app. I'm working on getting a demo online soon!`
+    );
   });
 });
