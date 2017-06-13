@@ -62,29 +62,32 @@ Personally, I didn't think those were unfair requests. "Maybe we should buy them
 
 Did your writing teacher ever tell you to "show, not tell"? That's what I needed to do to convince people in my organization this was a good idea.
 
-# Do you know Java?
+# Do you know Java?
 
-I viewed myself as computer savvy. With my dad's help, I had built my desktop computer from scratch. I could usually figure out how to make my computer do what I wanted; I could bend Google to my will to find the answer. That was the extent of my computer knowledge.
+I viewed myself as computer savvy. With my dad’s help, I had built my desktop computer from scratch. I could usually figure out how to make my computer do what I wanted; I could bend Google to my will to find the answer. That was the extent of my computer knowledge.
 
-My first searches into "short message service," or SMS, probably occurred in January of 2013. All I knew about SMS was that's what the Europeans, and by extension, the Guineans, called a text message.
+My first searches into “short message service,” or SMS, probably occurred in January of 2013. All I knew about SMS was that’s what the Europeans, and by extension, the Guineans, called a text message.
 
-I had a vague notion of how SMS had been used to improve health care in other parts of the world. During my training in Senegal, we listened to a presentation from the founder of Medic Mobile, a company working in the nascent field of "mHealth." They had developed a technology to convert the simple, Nokia phones, so common across the African continent, into data collection machines.
+I had a vague notion of how SMS had been used to improve health care in other parts of the world. During my training in Senegal, we listened to a presentation from a co-founder of Medic Mobile, a company working in the nascent field of “mHealth.” They had developed a technology to convert the simple, Nokia phones, so common across the African continent, into data collection machines.
 
-I emailed their Operations Officer in Kenya, Maeghan, to schedule a time to chat about what we were up to in Guinea and to see if their technology could help. I expected Maeghan to give me a call at 3pm my time. However, the minutes ticked by and she still hadn't called. I sent her an email to see if everything was ok. She replied almost immediately that their car had been pulled over several times by police so they could solicit bribes. That was the cause of the delay. They were still several hours away from a place where she could talk. We joked she was having "a day you can only have in Africa." I told her I was due for one myself, and we agreed to talk the next week.
+I emailed their Operations Officer in Kenya, Maeghan, to schedule a time to chat about what we were up to in Guinea and to see if their technology could help. I expected Maeghan to give me a call at 3pm my time. However, the minutes ticked by and she still hadn’t called. I sent her an email to see if everything was ok. She replied almost immediately that their car had been pulled over several times by police who were seeking to solicit bribes; that was the cause of the delay. They were still several hours away from a place where she could talk. We joked she was having “a day you can only have in Africa.” I empathized with her and teased I was due for a day like that myself. We agreed to talk the next week.
 
-I sat out on the porch. Maeghan sat in a cafe in Nairobi. We talked about mHealth, Guinea, and Medic Mobile. At one point in the conversation she asked, "Do you know Java?"
+I sat out on the porch at the Peace Corps transit house in Boké, Guinea. Maeghan sat in a cafe in Nairobi, Kenya. We talked about mHealth, Guinea, and Medic Mobile. At one point in the conversation she asked, “Do you know Java?”
+“Uhh, yup!”, I said.
 
-"Uhh, yup!", I said.
-
-I was too shy to say I didn't know what she was talking about. I remembered from listening to Medic Mobile's co-founder, Isaac, that when they got started, none of them knew how to code. They just sat in their room working their way through programming books till they figured it out. After my chat with Maeghan, I had a feeling a similar fate awaited me.
+I was too shy to say I didn’t know what she was talking about. I remembered from listening to Medic Mobile’s co-founder, Isaac, that when they got started, none of them knew how to code. They just sat in their room working their way through programming books till they figured out what they needed to know. After my chat with Maeghan, I had a feeling a similar fate awaited me.
 
 # To buy, or to build?
 
-As I continued my research I came across another vendor called Dimagi. Unfortunately, their software only worked on phones capable of running, you guessed it, Java. Java is a programming language and a runtime. If you have the Java runtime, you can run software written in the Java programming language. After installing and trying to run their software on my phone, I learned it didn't have the Java runtime. Thus, I was forced to buy another phone that did.
+As I continued my research I came across another vendor called Dimagi. Unfortunately, their software only worked on phones capable of running, you guessed it, Java. Java is a programming language and a runtime. If you have the Java runtime, you can run software written in the Java programming language. After installing and trying to run their software on my phone, I learned it didn't have the Java runtime. I was forced to buy another phone that did.
 
-My Peace Corps stipend was $150 a month. I had some extra stipend money from my partner organization, but all in all, I was living a nudge above the poverty line in Guinea. A new phone would cost another $35. However, many CHWs were below the poverty line, and I knew we couldn't ask them to buy new phones. That would be too hefty an ask. Though, as long as it was me and I was using it for my research, it was worth the expense.
+My Peace Corps stipend was $150 a month. I had some extra stipend money from my partner organization, but I was still living at the poverty line in Guinea. A new phone would cost another $35. As long as I was using it for my research, I didn't mind the expense. However, many CHWs were below the poverty line, and I knew we couldn't ask them to buy new phones. That would be too hefty an ask.
 
-I made many trips into the Boké town market to shop for cell phones. I always went to Mohammad's little boutique, which was smack dab in the middle of the market. Mohammad was a Peul. In the cast system, Peuls are well known for being merchants. He was around my age, but had a family already.  I would always go to Mohammad because he would let me 
+I made many trips into the Boké town market to shop for cell phones. I always went to Mohammad's little boutique, smack dab in the middle of the market. Mohammad was a Peul. In the cast system, Peuls are well known for being merchants.
+
+Mohammad's shop was tiny. It was stocked to the roof with things like cookies, powdered milk, and cooking oil.
+
+Whever I visited him at h He was around my age, but had a family already.  I would always go to Mohammad because he would let me
 
 
 
