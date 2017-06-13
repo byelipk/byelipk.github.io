@@ -64,7 +64,12 @@ body {
   .projects-list {
     margin-top: 5rem !important;
     .media {
-      margin-bottom: 3rem !important;
+      margin-bottom: 2rem !important;
+      padding: 1rem !important;
+      transition: background-color 500ms;
+      &:hover {
+        background-color: $aqua-haze;
+      }
     }
   }
 }
@@ -211,5 +216,5 @@ body {
        (min-resolution: 144dpi),
        (min-resolution: 1.5dppx) {
   /* your retina rules here */
-  
+
 }
