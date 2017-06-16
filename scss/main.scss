@@ -51,7 +51,10 @@ body {
   @extend .fullscreen;
   background: $cornflower-blue;
   h1 {
-    @extend .pt-10;
+    @extend .pt-5;
+  }
+  .lead {
+    @extend .mt-3;
   }
 }
 
@@ -198,6 +201,7 @@ body {
   .landing {
     p.lead {
       font-size: 2rem;
+      margin-top: 5rem !important;
     }
   }
 }
