@@ -127,16 +127,31 @@ body {
   }
 }
 
+.lead {
+  strong {
+    font-weight: bold;
+  }
+}
+
 // Utilities
 
 .display-5 {
   @extend .display-4;
-  font-size: 3rem;
+  font-size: 2.75rem;
+  font-weight: bold;
 }
 
 .breaker {
   @extend .mx-auto;
   width: 5rem;
+}
+
+.mt-5 {
+  margin-top: 5rem !important;
+}
+
+.mt-7 {
+  margin-top: 7rem !important;
 }
 
 .pt-5 {
@@ -155,7 +170,7 @@ body {
 
 @include media-breakpoint-up(xs) {
   html {
-    font-size: 0.75rem;
+    font-size: 0.9rem;
   }
 }
 @include media-breakpoint-up(sm) {
@@ -179,7 +194,13 @@ body {
 
 @include media-breakpoint-down(xs) { }
 @include media-breakpoint-down(sm) { }
-@include media-breakpoint-down(md) { }
+@include media-breakpoint-down(md) {
+  .landing {
+    p.lead {
+      font-size: 2rem;
+    }
+  }
+}
 @include media-breakpoint-down(lg) { }
 @include media-breakpoint-down(xl) { }
 
