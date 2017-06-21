@@ -75,6 +75,15 @@ body {
       &:hover {
         background-color: $aqua-haze;
       }
+      h5 {
+        font-weight: bold;
+      }
+      p {
+        color: $keppel;
+        small {
+          color: darken($keppel, 5%);
+        }
+      }
     }
   }
 }
