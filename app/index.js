@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function(){
     evt.preventDefault();
 
     Toaster.info(
-      `Thanks for your interest in the Kalanso app. I'm working on getting a demo online soon!`
+      `Thanks for your interest in the Kalanso app. I'm working on getting a demo online!`
     );
   });
 });
