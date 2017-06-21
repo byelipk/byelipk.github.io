@@ -61,11 +61,19 @@ body {
 .story {
   @extend .pt-5;
   @extend .pb-5;
+  p {
+    font-size: 1rem;
+    font-weight: 300;
+  }
 }
 
 .projects {
   @extend .pt-5;
   @extend .pb-5;
+  p {
+    font-size: 1rem;
+    font-weight: 300;
+  }
   .projects-list {
     margin-top: 5rem !important;
     .media {
@@ -78,26 +86,18 @@ body {
       h5 {
         font-weight: bold;
       }
-      p {
-        color: $keppel;
-        small {
-          color: darken($keppel, 5%);
-        }
-      }
     }
   }
 }
 
 .contact {
-  height: 50vh;
   @extend .pt-5;
   @extend .pb-5;
   article {
     header {
       p {
-        font-size: 1.5rem;
+        font-size: 1rem;
         font-weight: 300;
-        color: $keppel;
       }
     }
   }
@@ -150,6 +150,12 @@ body {
 .display-5 {
   @extend .display-4;
   font-size: 2.75rem;
+  font-weight: bold;
+}
+
+.display-6 {
+  @extend .display-4;
+  font-size: 2rem;
   font-weight: bold;
 }
 
