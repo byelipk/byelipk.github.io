@@ -6,10 +6,7 @@
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
     "jquery": "^3.2.1",
-    "tether": "^1.4.0",
-    "toastr": "^2.1.2",
-    "uglify-es": "git://github.com/mishoo/UglifyJS2.git#harmony",
-    "velocity": "^0.7.2"
+    "toastr": "^2.1.2"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
@@ -31,7 +28,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/webpack",
-    "server": "node_modules/.bin/webpack-dev-server",
+    "start": "node_modules/.bin/webpack-dev-server",
     "watch": "./node_modules/.bin/webpack --watch"
   },
   "repository": {
